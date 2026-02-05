@@ -18,6 +18,7 @@ NeoForge 21.1.176
 | ![Just Enough Items (JEI)](img/Just-Enough-Items-(JEI).jpeg) | Just Enough Items (JEI) | 19.27.0.340 | - |
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
 | ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet |
+| ![Simple Voice Chat](img/Simple-Voice-Chat.png) | Simple Voice Chat | 1.21.1-2.6.11 | - |
 | ![Sinytra Connector](img/Sinytra-Connector.png) | Sinytra Connector | 2.0.0-beta.12+1.21.1 | - |
 | ![Sodium](img/Sodium.png) | Sodium | 0.6.13+mc1.21.1 | - |
 | ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7b32b45 | - |
