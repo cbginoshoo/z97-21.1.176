@@ -17,10 +17,13 @@ NeoForge 21.1.176
 | ![Jade](img/Jade.png) | Jade | 15.10.5+neoforge | - |
 | ![Just Enough Items (JEI)](img/Just-Enough-Items-(JEI).jpeg) | Just Enough Items (JEI) | 19.27.0.340 | - |
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
+| ![Reese's Sodium Options](img/Reese's-Sodium-Options.webp) | Reese's Sodium Options | 1.8.3+mc1.21.4 | - |
 | ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet |
 | ![Simple Voice Chat](img/Simple-Voice-Chat.png) | Simple Voice Chat | 1.21.1-2.6.11 | - |
 | ![Sinytra Connector](img/Sinytra-Connector.png) | Sinytra Connector | 2.0.0-beta.12+1.21.1 | - |
 | ![Sodium](img/Sodium.png) | Sodium | 0.6.13+mc1.21.1 | - |
+| ![Sodium Extra](img/Sodium-Extra.webp) | Sodium Extra | 0.6.0+mc1.21.1 | - |
+| ![WI Zoom](img/WI-Zoom.png) | WI Zoom | 1.6-MC1.21.1-NeoForge | - |
 | ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7b32b45 | - |
 
 ## config
