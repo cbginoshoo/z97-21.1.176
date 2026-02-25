@@ -9,6 +9,7 @@ NeoForge 21.1.176
 | ![BetterF3](img/BetterF3.png) | BetterF3 | 11.0.3 | - |
 | ![Cloth Config API](img/Cloth-Config-API.png) | Cloth Config API | 15.0.140 | - |
 | ![Continuity](img/Continuity.png) | Continuity | 3.0.01.21 | - |
+| ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | - |
 | ![CreativeCore](img/CreativeCore.png) | CreativeCore | 2.13.26 | - |
 | ![Do a Barrel Roll](img/Do-a-Barrel-Roll.png) | Do a Barrel Roll | 3.7.3 | - |
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
@@ -16,6 +17,7 @@ NeoForge 21.1.176
 | ![Iris Shaders](img/Iris-Shaders.png) | Iris Shaders | 1.8.12-snapshot+mc1.21.1-local | - |
 | ![Jade](img/Jade.png) | Jade | 15.10.5+neoforge | - |
 | ![Just Enough Items (JEI)](img/Just-Enough-Items-(JEI).jpeg) | Just Enough Items (JEI) | 19.27.0.340 | - |
+| ![Particle Rain](img/Particle-Rain.png) | Particle Rain | 4.0.0-beta.5 | - |
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
 | ![Reese's Sodium Options](img/Reese's-Sodium-Options.png) | Reese's Sodium Options | 1.8.3+mc1.21.4 | - |
 | ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet |
