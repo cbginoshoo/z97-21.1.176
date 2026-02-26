@@ -1,10 +1,8 @@
 ﻿$source = "C:\Users\elaina15\Desktop\neoforge - 21.1.176\world"
-$backup = "D:\OneDrive\backup - 21.1.176"
+$backup = "D:\minecraft\backup - 21.1.176"
 
 
-if (!(Test-Path $backup)) {
-	New-Item -ItemType Directory -Path $backup
-}
+if (!(Test-Path $backup)) { New-Item -ItemType Directory -Path $backup }
 $timestamp = Get-Date -Format "(yyyy-MM-dd_HH-mm)"
 $dest = Join-Path $backup "world $timestamp"
 
@@ -37,7 +35,7 @@ catch {
 			Write-Host "残骸ファイル$($linkDestName)を削除しました。"
 		}
 		catch {
-			Write-Host "!Warning: 残骸の削除に失敗しました、手動で削除してください。" -ForegroundColor Yellow
+			Write-Host "!Warning: 残骸ファイルの削除に失敗しました、手動で削除してください。" -ForegroundColor Yellow
 			Write-Host $_.Exception.Message -ForegroundColor Yellow
 
 			Write-Host "`r2s..." -NoNewLine
