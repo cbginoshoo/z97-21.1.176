@@ -69,6 +69,6 @@ config
 | GPU | Nvidia GeForce GTX 1660 Super (6GB)| Turing |
 | RAM | DDR3-1600MHz 32GB (8GB x4)| -Xms12G -Xmx16G |
 | M/B | ASUS Z97-PRO GAMER | Intel Z97 Express |
-| SSD | M.2 NVMe SSD 128GB (Gen2 x2)| And 250GB Raid1 (HDD x2) |
+| SSD | M.2 NVMe SSD 128GB (Gen2 x2)| And 250GB RAID1 (HDD x2) |
 | Power | 500W (80+ Platinum) | KRPW-PT500W/92+ |
 | OS | Windows 11 Home | TPM1.2 |
