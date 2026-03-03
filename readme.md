@@ -12,6 +12,7 @@ NeoForge 21.1.176
 | ![Comforts](img/Comforts.png) | Comforts | 9.0.5+1.21.1 | - |
 | ![Continuity](img/Continuity.png) | Continuity | 3.0.01.21.neoforge | - |
 | ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | - |
+| ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | 21.0.35 | - |
 | ![CreativeCore](img/CreativeCore.png) | CreativeCore | 2.13.26 | - |
 | ![Do a Barrel Roll](img/Do-a-Barrel-Roll.png) | Do a Barrel Roll | 3.7.3 | - |
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
@@ -46,6 +47,11 @@ NeoForge 21.1.176
 ----|----|----|----
 | ![totem da capoeira](img/totem-da-capoeira.png) | totem da capoeira | 1.3 | - |
 | ![Flandre Scarlet's Wings](img/Flandre-Scarlet's-Wings.png) | Flandre Scarlet's Wings | 1.0 | https://www.curseforge.com/minecraft/texture-packs/flandre-scarlet-s-wings |
+
+# scripts
+| IMG | Name | Version | Other |
+----|----|----|----
+| ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | .zs | - |
 
 # shaderpacks
 | IMG | Name | Version | Other |
