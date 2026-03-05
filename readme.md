@@ -15,11 +15,13 @@ NeoForge 21.1.176
 | ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | - |
 | ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | 21.0.35 | - |
 | ![CreativeCore](img/CreativeCore.png) | CreativeCore | 2.13.26 | - |
+| ![Curios API (Forge/NeoForge)](img/Curios-API-(Forge-NeoForge).png) | Curios API (Forge/NeoForge) | 9.5.1+1.21.1 | - |
 | ![Do a Barrel Roll](img/Do-a-Barrel-Roll.png) | Do a Barrel Roll | 3.7.3 | - |
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
 | ![Forgified Fabric API](img/Forgified-Fabric-API.png) | Forgified Fabric API | 0.115.6+2.1.4+1.21.1 | No 0.116.7+2.2.3+1.21.1 |
 | ![GeckoLib](img/GeckoLib.png) | GeckoLib | 4.8.3 | - |
 | ![Iris Shaders](img/Iris-Shaders.png) | Iris Shaders | 1.8.12-snapshot+mc1.21.1-local | - |
+| ![Iron's Spells 'n Spellbooks](img/Iron's-Spells-'n-Spellbooks.png) | Iron's Spells 'n Spellbooks | 1.21.1-3.15.0 | No 1.21.1-3.15.1 |
 | ![Jade](img/Jade.png) | Jade | 15.10.5+neoforge | - |
 | ![Just Enough Items (JEI)](img/Just-Enough-Items-(JEI).jpeg) | Just Enough Items (JEI) | 19.27.0.340 | - |
 | ![Kawaii Dishes](img/Kawaii-Dishes.png) | Kawaii Dishes | 1.13 | - |
@@ -29,6 +31,7 @@ NeoForge 21.1.176
 | ![Moonlight Lib](img/Moonlight-Lib.png) | Moonlight Lib | 1.21-2.22.2 | No 1.21.1-2.22.3 |
 | ![Particle Rain](img/Particle-Rain.png) | Particle Rain | 4.0.0-beta.5 | - |
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
+| ![playerAnimator](img/playerAnimator.png) | playerAnimator | 2.0.4+1.21.1 | - |
 | ![Reese's Sodium Options](img/Reese's-Sodium-Options.png) | Reese's Sodium Options | 1.8.3+mc1.21.4 | - |
 | ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet |
 | ![Simple Voice Chat](img/Simple-Voice-Chat.png) | Simple Voice Chat | 1.21.1-2.6.11 | - |
