@@ -7,6 +7,7 @@ NeoForge 21.1.176
 ----|----|----|----
 | ![Amendments](img/Amendments.gif) | Amendments | 1.21-2.0.8 | No 1.21-2.0.9 |
 | ![AppleSkin](img/AppleSkin.png) | AppleSkin | 3.0.8+mc1.21 | - |
+| ![Architectury-API](img/Architectury-API.png) | Architectury-API | 13.0.8 | - |
 | ![BetterF3](img/BetterF3.png) | BetterF3 | 11.0.3 | - |
 | ![Cloth Config API](img/Cloth-Config-API.png) | Cloth Config API | 15.0.140 | - |
 | ![Comforts](img/Comforts.png) | Comforts | 9.0.5+1.21.1 | - |
@@ -23,6 +24,7 @@ NeoForge 21.1.176
 | ![Just Enough Items (JEI)](img/Just-Enough-Items-(JEI).jpeg) | Just Enough Items (JEI) | 19.27.0.340 | - |
 | ![Kawaii Dishes](img/Kawaii-Dishes.png) | Kawaii Dishes | 1.13 | - |
 | ![Kotlin for Forge](img/Kotlin-for-Forge.png) | Kotlin for Forge | 5.11.0 | - |
+| ![Leawind's Third Person](img/Leawind's-Third-Person.png) | Leawind's Third Person | 2.3.0 | - |
 | ![libIPN](img/libIPN.png) | libIPN | 6.6.2 | - |
 | ![Moonlight Lib](img/Moonlight-Lib.png) | Moonlight Lib | 1.21-2.22.2 | No 1.21.1-2.22.3 |
 | ![Particle Rain](img/Particle-Rain.png) | Particle Rain | 4.0.0-beta.5 | - |
@@ -36,11 +38,13 @@ NeoForge 21.1.176
 | ![Supplementaries](img/Supplementaries.gif) | Supplementaries | 1.21-3.4.14 | No 1.21-3.4.15 |
 | ![WI Zoom](img/WI-Zoom.png) | WI Zoom | 1.6-MC1.21.1-NeoForge | - |
 | ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7d32b45 | - |
+| ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | 2.6.2-neoforge+mc1.21.1 | - |
 
 ## config
 | IMG | Name | Config | Other |
 ----|----|----|----
 | ![BetterF3](img/BetterF3.png) | BetterF3 | .toml | - |
+| ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | .ysm, .zip | /Yes_Steve_Model/custom/* |
 
 # resourcepacks
 | IMG | Name | Version | Other |
