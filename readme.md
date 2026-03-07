@@ -12,7 +12,7 @@ NeoForge 21.1.176
 | ![Cloth Config API](img/Cloth-Config-API.png) | Cloth Config API | 15.0.140 | - |
 | ![Comforts](img/Comforts.png) | Comforts | 9.0.5+1.21.1 | - |
 | ![Continuity](img/Continuity.png) | Continuity | 3.0.01.21.neoforge | - |
-| ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | - |
+| ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | client only |
 | ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | 21.0.35 | - |
 | ![CreativeCore](img/CreativeCore.png) | CreativeCore | 2.13.26 | - |
 | ![Curios API (Forge/NeoForge)](img/Curios-API-(Forge-NeoForge).png) | Curios API (Forge/NeoForge) | 9.5.1+1.21.1 | - |
@@ -20,7 +20,7 @@ NeoForge 21.1.176
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
 | ![Forgified Fabric API](img/Forgified-Fabric-API.png) | Forgified Fabric API | 0.115.6+2.1.4+1.21.1 | No 0.116.7+2.2.3+1.21.1 |
 | ![GeckoLib](img/GeckoLib.png) | GeckoLib | 4.8.3 | - |
-| ![Iris Shaders](img/Iris-Shaders.png) | Iris Shaders | 1.8.12-snapshot+mc1.21.1-local | - |
+| ![Iris Shaders](img/Iris-Shaders.png) | Iris Shaders | 1.8.12-snapshot+mc1.21.1-local | client only |
 | ![Iron's Spells 'n Spellbooks](img/Iron's-Spells-'n-Spellbooks.png) | Iron's Spells 'n Spellbooks | 1.21.1-3.15.0 | No 1.21.1-3.15.1 |
 | ![Jade](img/Jade.png) | Jade | 15.10.5+neoforge | - |
 | ![Just Enough Items (JEI)](img/Just-Enough-Items-(JEI).jpeg) | Just Enough Items (JEI) | 19.27.0.340 | - |
@@ -30,7 +30,7 @@ NeoForge 21.1.176
 | ![libIPN](img/libIPN.png) | libIPN | 6.6.2 | - |
 | ![MmmMmmMmmMmm (Target Dummy)](img/MmmMmmMmmMmm-(Target-Dummy).png) | MmmMmmMmmMmm (Target Dummy) | 1.21-2.0.11 | - |
 | ![Moonlight Lib](img/Moonlight-Lib.png) | Moonlight Lib | 1.21-2.22.2 | No 1.21.1-2.22.3 |
-| ![Particle Rain](img/Particle-Rain.png) | Particle Rain | 4.0.0-beta.5 | - |
+| ![Particle Rain](img/Particle-Rain.png) | Particle Rain | 4.0.0-beta.5 | client only |
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
 | ![playerAnimator](img/playerAnimator.png) | playerAnimator | 2.0.4+1.21.1 | - |
 | ![Reese's Sodium Options](img/Reese's-Sodium-Options.png) | Reese's Sodium Options | 1.8.3+mc1.21.4 | - |
@@ -40,8 +40,8 @@ NeoForge 21.1.176
 | ![Sodium](img/Sodium.png) | Sodium | 0.6.13+mc1.21.1 | - |
 | ![Sodium Extra](img/Sodium-Extra.png) | Sodium Extra | 0.6.0+mc1.21.1 | - |
 | ![Supplementaries](img/Supplementaries.gif) | Supplementaries | 1.21-3.4.14 | No 1.21-3.4.15 |
-| ![WI Zoom](img/WI-Zoom.png) | WI Zoom | 1.6-MC1.21.1-NeoForge | - |
-| ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7d32b45 | - |
+| ![WI Zoom](img/WI-Zoom.png) | WI Zoom | 1.6-MC1.21.1-NeoForge | client only |
+| ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7d32b45 | single only |
 | ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | 2.6.2-neoforge+mc1.21.1 | - |
 
 ## config
