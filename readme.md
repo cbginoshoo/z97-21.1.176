@@ -52,20 +52,25 @@ NeoForge 21.1.176
 | IMG | Name | Config | Other |
 ----|----|----|----
 | ![BetterF3](img/BetterF3.png) | BetterF3 | .toml | - |
-| ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | .ysm, .zip | /Yes_Steve_Model/custom/* |
+| ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | .ysm, .zip | config/Yes_Steve_Model/custom/* |
 
-# resourcepacks
+## options (Key Binds)
+| Name | Version | Other |
+----|----|----
+| options | .txt | neoforge-21.1.176/* |
+
+## resourcepacks
 | IMG | Name | Version | Other |
 ----|----|----|----
 | ![totem da capoeira](img/totem-da-capoeira.png) | totem da capoeira | 1.3 | - |
 | ![Flandre Scarlet's Wings](img/Flandre-Scarlet's-Wings.png) | Flandre Scarlet's Wings | 1.0 | https://www.curseforge.com/minecraft/texture-packs/flandre-scarlet-s-wings |
 
-# scripts
+## scripts
 | IMG | Name | Version | Other |
 ----|----|----|----
 | ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | .zs | - |
 
-# shaderpacks
+## shaderpacks
 | IMG | Name | Version | Other |
 ----|----|----|----
 | ![ScarletEdition](img/ScarletEdition.png) | ScarletEdition | r5.2.2-1.0.1 | - |
