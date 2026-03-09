@@ -48,7 +48,7 @@ mouseSensitivity:0.5019063600352114
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","builtin/builtin_resource_packs/legacy_dead_king_resource_pack","continuity:glass_pane_culling_fix","continuity:default","file/Totem Da Capoeira v1.3.zip","file/Flandre Scarlet\u0027s Wings v1.0.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:glass_pane_culling_fix","continuity:default","file/Totem Da Capoeira v1.3.zip","file/Flandre Scarlet\u0027s Wings v1.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:mc.hypixel.net
 lang:ja_jp
@@ -154,7 +154,7 @@ key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.yes_steve_model.player_model.desc:key.keyboard.y:ALT
-key_key.yes_steve_model.animation_roulette.desc:key.keyboard.b:CONTROL
+key_key.yes_steve_model.animation_roulette.desc:key.keyboard.b
 key_key.yes_steve_model.lock_roulette.desc:key.keyboard.unknown
 key_key.yes_steve_model.debug_animation.desc:key.keyboard.unknown
 key_key.yes_steve_model.open_extra_player_render.desc:key.keyboard.unknown
