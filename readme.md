@@ -11,6 +11,7 @@ NeoForge 21.1.176
 | ![BetterF3](img/BetterF3.png) | BetterF3 | 11.0.3 | - |
 | ![Cloth Config API](img/Cloth-Config-API.png) | Cloth Config API | 15.0.140 | - |
 | ![Comforts](img/Comforts.png) | Comforts | 9.0.5+1.21.1 | - |
+| ![Connectible Chains [Fabric]](img/Connectible-Chains-[Fabric].png) | Connectible Chains [Fabric] | 2.5.71.21.1 | - |
 | ![Continuity](img/Continuity.png) | Continuity | 3.0.01.21.neoforge | - |
 | ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | client only |
 | ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | 21.0.35 | - |
@@ -20,6 +21,7 @@ NeoForge 21.1.176
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
 | ![Forgified Fabric API](img/Forgified-Fabric-API.png) | Forgified Fabric API | 0.115.6+2.1.4+1.21.1 | No 0.116.7+2.2.3+1.21.1 |
 | ![GeckoLib](img/GeckoLib.png) | GeckoLib | 4.8.3 | - |
+| ![InvMove](img/InvMove.png) | InvMove | 0.9.3 | - |
 | ![Iris Shaders](img/Iris-Shaders.png) | Iris Shaders | 1.8.12-snapshot+mc1.21.1-local | client only |
 | ![Iron's Spells 'n Spellbooks](img/Iron's-Spells-'n-Spellbooks.png) | Iron's Spells 'n Spellbooks | 1.21.1-3.15.0 | No 1.21.1-3.15.1 |
 | ![Jade](img/Jade.png) | Jade | 15.10.5+neoforge | - |
@@ -39,10 +41,12 @@ NeoForge 21.1.176
 | ![Sinytra Connector](img/Sinytra-Connector.png) | Sinytra Connector | 2.0.0-beta.12+1.21.1 | - |
 | ![Sodium](img/Sodium.png) | Sodium | 0.6.13+mc1.21.1 | - |
 | ![Sodium Extra](img/Sodium-Extra.png) | Sodium Extra | 0.6.0+mc1.21.1 | - |
+| ![Status Effect Bars](img/Status-Effect-Bars.png) | Status Effect Bars | 1.0.6 | - |
 | ![Supplementaries](img/Supplementaries.gif) | Supplementaries | 1.21-3.4.14 | No 1.21-3.4.15 |
 | ![WI Zoom](img/WI-Zoom.png) | WI Zoom | 1.6-MC1.21.1-NeoForge | client only |
 | ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7d32b45 | single only |
 | ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | 2.6.2-neoforge+mc1.21.1 | - |
+| ![Zipline](img/Zipline.png) | Zipline | 1.2.11.21.1-bc25 | - |
 
 ## config
 | IMG | Name | Config | Other |
