@@ -134,9 +134,9 @@ key_key.jei.showUses:key.keyboard.u
 key_key.jei.showUses2:key.mouse.right
 key_key.jei.transferRecipeBookmark:key.keyboard.unknown
 key_key.jei.maxTransferRecipeBookmark:key.keyboard.unknown
-key_key.jei.clearSearchBar:key.keyboard.unknown
-key_key.jei.previousSearch:key.keyboard.unknown
-key_key.jei.nextSearch:key.keyboard.unknown
+key_key.jei.clearSearchBar:key.mouse.right
+key_key.jei.previousSearch:key.keyboard.up
+key_key.jei.nextSearch:key.keyboard.down
 key_key.jei.toggleCheatMode:key.keyboard.unknown
 key_key.jei.cheatOneItem:key.keyboard.unknown
 key_key.jei.cheatOneItem2:key.keyboard.unknown
