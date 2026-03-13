@@ -22,6 +22,7 @@ NeoForge 21.1.176
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
 | ![Forgified Fabric API](img/Forgified-Fabric-API.png) | Forgified Fabric API | 0.115.6+2.1.4+1.21.1 | No 0.116.7+2.2.3+1.21.1 |
 | ![GeckoLib](img/GeckoLib.png) | GeckoLib | 4.8.3 | - |
+| ![Inventory Profiles Next](img/Inventory-Profiles-Next.png) | Inventory Profiles Next | 2.2.4 | - |
 | ![InvMove](img/InvMove.png) | InvMove | 0.9.3 | - |
 | ![Iris Shaders](img/Iris-Shaders.png) | Iris Shaders | 1.8.12-snapshot+mc1.21.1-local | client only |
 | ![Iron's Spells 'n Spellbooks](img/Iron's-Spells-'n-Spellbooks.png) | Iron's Spells 'n Spellbooks | 1.21.1-3.15.0 | No 1.21.1-3.15.1 |
@@ -54,8 +55,9 @@ NeoForge 21.1.176
 ## config
 | IMG | Name | Config | Other |
 ----|----|----|----
-| ![BetterF3](img/BetterF3.png) | BetterF3 | .toml | - |
-| ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | .ysm, .zip | config/Yes_Steve_Model/custom/* |
+| ![BetterF3](img/BetterF3.png) | BetterF3 | .toml | config/* |
+| ![Inventory Profiles Next](img/Inventory-Profiles-Next.png) | Inventory Profiles Next | .json | config/inventoryprofilesnext/* |
+| ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | .ysm, .zip | config/yes_steve_model/custom/* |
 
 ## options (Key Binds)
 | Name | Version | Other |

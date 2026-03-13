@@ -1,0 +1,159 @@
+{
+    "Features": {
+        "enable_profiles": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "move_just_refill_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "enable_updates_check": false,
+        "first_run": false,
+        "enable_profiles": {
+            "value": false
+        }
+    },
+    "GuiSettings": {
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
+        "enable_profiles_ui": {
+            "value": false
+        }
+    },
+    "LockedSlotsSettings": {
+        "show_locked_slots_foreground": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "auto_refill_prefer_smaller_stacks": true,
+        "autorefill_blacklist": "minecraft:water_bucket",
+        "tool_damage_threshold": 16,
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        },
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        },
+        "tool_max_durability_threshold": 512,
+        "number_of_notifications": 2,
+        "notification_step": 4
+    },
+    "EditProfiles": {
+        "enable_profiles": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "auto_refill_gui_toggle_for_slot": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "auto_refill_game_toggle_for_slot": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "next_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "prev_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_1": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_2": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_3": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_4": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_5": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_6": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_7": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_8": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_9": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_10": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_components": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_item_id": {
+            "main": {
+                "keys": ""
+            }
+        }
+    },
+    "Tweaks": {
+        "prevent_close_gui_drop_item": {
+            "value": true
+        },
+        "swipe_move_crafting_result_slot": {
+            "value": true
+        }
+    }
+}
