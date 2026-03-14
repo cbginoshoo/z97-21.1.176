@@ -40,7 +40,7 @@ NeoForge 21.1.176
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
 | ![playerAnimator](img/playerAnimator.png) | playerAnimator | 2.0.4+1.21.1 | - |
 | ![Reese's Sodium Options](img/Reese's-Sodium-Options.png) | Reese's Sodium Options | 1.8.3+mc1.21.4 | - |
-| ![ReForgedPlay [replay mod on (neo)forge]](img/ReForgedPlay-[replay-mod-on-(neo)forge].png) | ReForgedPlay [replay mod on (neo)forge] | 0.3 | - |
+| ![ReForgedPlay [replay mod on (neo)forge]](img/ReForgedPlay-[replay-mod-on-(neo)forge].png) | ReForgedPlay [replay mod on (neo)forge] | 0.3 | client only, option |
 | ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet |
 | ![Simple Voice Chat](img/Simple-Voice-Chat.png) | Simple Voice Chat | 1.21.1-2.6.11 | - |
 | ![Sinytra Connector](img/Sinytra-Connector.png) | Sinytra Connector | 2.0.0-beta.12+1.21.1 | - |
