@@ -50,7 +50,7 @@ highContrast:false
 narratorHotkey:false
 resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:glass_pane_culling_fix","continuity:default","file/Totem Da Capoeira v1.3.zip","file/Flandre Scarlet\u0027s Wings v1.0.zip"]
 incompatibleResourcePacks:[]
-lastServer:mc.hypixel.net
+lastServer:
 lang:ja_jp
 chatVisibility:0
 chatOpacity:1.0
