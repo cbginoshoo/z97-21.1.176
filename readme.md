@@ -81,7 +81,7 @@ NeoForge 21.1.176
 ## shaderpacks
 | IMG | Name | Version | Other |
 ----|----|----|----
-| ![ScarletEdition](img/ScarletEdition.png) | ScarletEdition | r5.2.2-1.0.1 | - |
+| ![ScarletEdition](img/ScarletEdition.png) | ScarletEdition | r5.2.2-1.0.2 | - |
 
 config
 
