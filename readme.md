@@ -42,6 +42,7 @@ NeoForge 21.1.176
 | ![Reese's Sodium Options](img/Reese's-Sodium-Options.png) | Reese's Sodium Options | 1.8.3+mc1.21.4 | - |
 | ![ReForgedPlay [replay mod on (neo)forge]](img/ReForgedPlay-[replay-mod-on-(neo)forge].png) | ReForgedPlay [replay mod on (neo)forge] | 0.3 | client only, option |
 | ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet |
+| ![Shulker Tooltip](img/Shulker-Tooltip.png) | Shulker Tooltip | 5.1.8+1.21.1 | - |
 | ![Simple Voice Chat](img/Simple-Voice-Chat.png) | Simple Voice Chat | 1.21.1-2.6.11 | - |
 | ![Sinytra Connector](img/Sinytra-Connector.png) | Sinytra Connector | 2.0.0-beta.12+1.21.1 | - |
 | ![Sodium](img/Sodium.png) | Sodium | 0.6.13+mc1.21.1 | - |
@@ -58,6 +59,7 @@ NeoForge 21.1.176
 ----|----|----|----
 | ![BetterF3](img/BetterF3.png) | BetterF3 | .toml | config/* |
 | ![Inventory Profiles Next](img/Inventory-Profiles-Next.png) | Inventory Profiles Next | .json | config/inventoryprofilesnext/* |
+| ![Shulker Tooltip](img/Shulker-Tooltip.png) | Shulker Tooltip | .json5 | config/* |
 | ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | .ysm, .zip | config/yes_steve_model/custom/* |
 
 ## options (Key Binds)
