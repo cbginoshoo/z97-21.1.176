@@ -8,11 +8,13 @@ NeoForge 21.1.176
 | ![Amendments](img/Amendments.gif) | Amendments | 1.21-2.0.8 | No 1.21-2.0.9 |
 | ![AppleSkin](img/AppleSkin.png) | AppleSkin | 3.0.8+mc1.21 | - |
 | ![Architectury-API](img/Architectury-API.png) | Architectury-API | 13.0.8 | - |
+| ![Balm](img/Balm.png) | Balm | 21.0.56 | - |
 | ![Better Ping Display [Fabric]](img/Better-Ping-Display-[Fabric].png) | Better Ping Display [Fabric] | 1.1.1 | - |
 | ![BetterF3](img/BetterF3.png) | BetterF3 | 11.0.3 | - |
 | ![Cloth Config API](img/Cloth-Config-API.png) | Cloth Config API | 15.0.140 | - |
 | ![Comforts](img/Comforts.png) | Comforts | 9.0.5+1.21.1 | - |
 | ![Continuity](img/Continuity.png) | Continuity | 3.0.01.21.neoforge | - |
+| ![Cooking for Blockheads](img/Cooking-for-Blockheads.png) | Cooking for Blockheads | 21.1.18 | - |
 | ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | client only |
 | ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | 21.0.35 | - |
 | ![Create](img/Create.png) | Create | 6.0.6 | No 6.0.7 |
@@ -36,6 +38,10 @@ NeoForge 21.1.176
 | ![MaLiLib](img/MaLiLib.png) | MaLiLib | 0.21.0 | - |
 | ![MmmMmmMmmMmm (Target Dummy)](img/MmmMmmMmmMmm-(Target-Dummy).png) | MmmMmmMmmMmm (Target Dummy) | 1.21-2.0.11 | - |
 | ![Moonlight Lib](img/Moonlight-Lib.png) | Moonlight Lib | 1.21-2.22.2 | No 1.21.1-2.22.3 |
+| ![Pam's HarvestCraft 2 - Crops](img/Pam's-HarvestCraft-2---Crops.png) | Pam's HarvestCraft 2 - Crops | 1.0.7 | - |
+| ![Pam's HarvestCraft 2 - Food Core](img/Pam's-HarvestCraft-2---Food-Core.png) | Pam's HarvestCraft 2 - Food Core | 1.0.4 | - |
+| ![Pam's HarvestCraft 2 - Food Extended](img/Pam's-HarvestCraft-2---Food-Extended.png) | Pam's HarvestCraft 2 - Food Extended | 1.0.0 | - |
+| ![Pam's HarvestCraft 2 - Trees](img/Pam's-HarvestCraft-2---Trees.png) | Pam's HarvestCraft 2 - Trees | 1.0.8 | - |
 | ![Particle Rain](img/Particle-Rain.png) | Particle Rain | 4.0.0-beta.5 | client only |
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
 | ![playerAnimator](img/playerAnimator.png) | playerAnimator | 2.0.4+1.21.1 | - |
