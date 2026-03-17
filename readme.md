@@ -12,10 +12,10 @@ NeoForge 21.1.176
 | ![BetterF3](img/BetterF3.png) | BetterF3 | 11.0.3 | - |
 | ![Cloth Config API](img/Cloth-Config-API.png) | Cloth Config API | 15.0.140 | - |
 | ![Comforts](img/Comforts.png) | Comforts | 9.0.5+1.21.1 | - |
-| ![Connectible Chains [Fabric]](img/Connectible-Chains-[Fabric].png) | Connectible Chains [Fabric] | 2.5.71.21.1 | - |
 | ![Continuity](img/Continuity.png) | Continuity | 3.0.01.21.neoforge | - |
 | ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | client only |
 | ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | 21.0.35 | - |
+| ![Create](img/Create.png) | Create | 6.0.6 | No 6.0.7 |
 | ![CreativeCore](img/CreativeCore.png) | CreativeCore | 2.13.26 | - |
 | ![Curios API (Forge/NeoForge)](img/Curios-API-(Forge-NeoForge).png) | Curios API (Forge/NeoForge) | 9.5.1+1.21.1 | - |
 | ![Do a Barrel Roll](img/Do-a-Barrel-Roll.png) | Do a Barrel Roll | 3.7.3 | - |
@@ -52,7 +52,6 @@ NeoForge 21.1.176
 | ![WI Zoom](img/WI-Zoom.png) | WI Zoom | 1.6-MC1.21.1-NeoForge | client only |
 | ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7d32b45 | single only |
 | ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | 2.6.2-neoforge+mc1.21.1 | - |
-| ![Zipline](img/Zipline.png) | Zipline | 1.2.11.21.1-bc25 | - |
 
 ## config
 | IMG | Name | Config | Other |
@@ -81,7 +80,7 @@ NeoForge 21.1.176
 ## shaderpacks
 | IMG | Name | Version | Other |
 ----|----|----|----
-| ![ScarletEdition](img/ScarletEdition.png) | ScarletEdition | r5.2.2-1.0.2 | - |
+| ![ScarletEdition](img/ScarletEdition.png) | ScarletEdition | r5.2.2-1.0.3 | - |
 
 config
 
