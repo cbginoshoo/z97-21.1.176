@@ -2,7 +2,7 @@
 # Minecraft 1.21.1
 NeoForge 21.1.176
 
-# mods
+# mods (51 + 1 + 1)
 | IMG | Name | Version | Other |
 ----|----|----|----
 | ![Amendments](img/Amendments.gif) | Amendments | 1.21-2.0.8 | No 1.21-2.0.9 |
