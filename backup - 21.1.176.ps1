@@ -1,5 +1,5 @@
 ﻿$source = "C:\Users\elaina15\Desktop\neoforge - 21.1.176\world"
-$backup = "D:\minecraft\backup - 21.1.176"
+$backup = "R:\minecraft\backup - 21.1.176"
 
 
 if (!(Test-Path $backup)) { New-Item -ItemType Directory -Path $backup }
