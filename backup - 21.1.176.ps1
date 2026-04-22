@@ -1,4 +1,4 @@
-﻿$source = "C:\Users\elaina15\Desktop\neoforge - 21.1.176\world"
+﻿$source = "D:\neoforge - 21.1.176\world"
 $backup = "R:\minecraft\backup - 21.1.176"
 
 

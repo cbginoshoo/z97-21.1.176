@@ -101,7 +101,7 @@ config
 
 | List | Name | Other |
 ----|----|----
-| CPU | Intel Core i7-4790S (4.0GHz)| Haswell Refresh |
+| CPU | Intel Core i7-4790K (4.2GHz, 1.05V)| Devil's Canyon |
 | GPU | Nvidia GeForce GTX 1660 Super (6GB)| Turing |
 | RAM | DDR3-1600MHz 32GB (8GB x4)| -Xms12G -Xmx16G |
 | M/B | ASUS Z97-PRO GAMER | Intel Z97 Express |
