@@ -22,6 +22,7 @@ NeoForge 21.1.176
 | ![Curios API (Forge/NeoForge)](img/Curios-API-(Forge-NeoForge).png) | Curios API (Forge/NeoForge) | 9.5.1+1.21.1 | - |
 | ![Do a Barrel Roll](img/Do-a-Barrel-Roll.png) | Do a Barrel Roll | 3.7.3 | - |
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
+| ![ForgedPaginatedAdvancements](img/ForgedPaginatedAdvancements.png) | ForgedPaginatedAdvancements | 0.0.2+1.21.1 | - |
 | ![Forgified Fabric API](img/Forgified-Fabric-API.png) | Forgified Fabric API | 0.115.6+2.1.4+1.21.1 | No 0.116.7+2.2.3+1.21.1 |
 | ![GeckoLib](img/GeckoLib.png) | GeckoLib | 4.8.3 | - |
 | ![Inventory Profiles Next](img/Inventory-Profiles-Next.png) | Inventory Profiles Next | 2.2.4 | - |
