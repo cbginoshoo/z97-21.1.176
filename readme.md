@@ -2,9 +2,10 @@
 # Minecraft 1.21.1
 NeoForge 21.1.176
 
-# mods (51 + 1 + 1)
+# mods (60 + 1 + 1)
 | IMG | Name | Version | Other |
 ----|----|----|----
+| ![AmbientSounds 6](img/AmbientSounds-6.png) | AmbientSounds | 6.3.8 | - |
 | ![Amendments](img/Amendments.gif) | Amendments | 1.21-2.0.8 | No 1.21-2.0.9 |
 | ![AppleSkin](img/AppleSkin.png) | AppleSkin | 3.0.8+mc1.21 | - |
 | ![Architectury-API](img/Architectury-API.png) | Architectury-API | 13.0.8 | - |
@@ -18,13 +19,16 @@ NeoForge 21.1.176
 | ![Cool Rain](img/Cool-Rain.png) | Cool Rain | 1.1.0 | client only |
 | ![CraftTweaker](img/CraftTweaker.png) | CraftTweaker | 21.0.35 | - |
 | ![Create](img/Create.png) | Create | 6.0.6 | No 6.0.7 |
-| ![CreativeCore](img/CreativeCore.png) | CreativeCore | 2.13.26 | - |
+| ![CreativeCore](img/CreativeCore.png) | CreativeCore | 2.13.41 | - |
 | ![Curios API (Forge/NeoForge)](img/Curios-API-(Forge-NeoForge).png) | Curios API (Forge/NeoForge) | 9.5.1+1.21.1 | - |
+| ![Death Sorter](img/Death-Sorter.png) | Death Sorter | 0.0.4 | - |
 | ![Do a Barrel Roll](img/Do-a-Barrel-Roll.png) | Do a Barrel Roll | 3.7.3 | - |
 | ![EnhancedVisuals](img/EnhancedVisuals.png) | EnhancedVisuals | 1.8.25 | - |
 | ![ForgedPaginatedAdvancements](img/ForgedPaginatedAdvancements.png) | ForgedPaginatedAdvancements | 0.0.2+1.21.1 | - |
 | ![Forgified Fabric API](img/Forgified-Fabric-API.png) | Forgified Fabric API | 0.115.6+2.1.4+1.21.1 | No 0.116.7+2.2.3+1.21.1 |
+| ![Forgiving Void](img/Forgiving-Void.png) | Forgiving Void | 21.1.7 | - |
 | ![GeckoLib](img/GeckoLib.png) | GeckoLib | 4.8.3 | - |
+| ![HealingBed](img/HealingBed.png) | HealingBed | 1.21.1 | - |
 | ![Inventory Profiles Next](img/Inventory-Profiles-Next.png) | Inventory Profiles Next | 2.2.4 | - |
 | ![InvMove](img/InvMove.png) | InvMove | 0.9.3 | - |
 | ![Iris Shaders](img/Iris-Shaders.png) | Iris Shaders | 1.8.12-snapshot+mc1.21.1-local | client only |
@@ -46,17 +50,21 @@ NeoForge 21.1.176
 | ![Particle Rain](img/Particle-Rain.png) | Particle Rain | 4.0.0-beta.5 | client only |
 | ![Patchouli](img/Patchouli.png) | Patchouli | 1.21.1-92-NEOFORGE | - |
 | ![playerAnimator](img/playerAnimator.png) | playerAnimator | 2.0.4+1.21.1 | - |
+| ![Presence Footsteps (NeoForge)](img/Presence-Footsteps-(NeoForge).png) | Presence Footsteps (NeoForge) | 1.21.1-1.12.0-beta.1 | client only |
 | ![Reese's Sodium Options](img/Reese's-Sodium-Options.png) | Reese's Sodium Options | 1.8.3+mc1.21.4 | - |
 | ![ReForgedPlay [replay mod on (neo)forge]](img/ReForgedPlay-[replay-mod-on-(neo)forge].png) | ReForgedPlay [replay mod on (neo)forge] | 0.3 | client only, option |
-| ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet |
+| ![Scarlet](img/Scarlet.png) | Scarlet | 0.2.1 | https://github.com/cbginoshoo/Scarlet (original) |
 | ![Shulker Tooltip](img/Shulker-Tooltip.png) | Shulker Tooltip | 5.1.8+1.21.1 | - |
 | ![Simple Voice Chat](img/Simple-Voice-Chat.png) | Simple Voice Chat | 1.21.1-2.6.11 | - |
 | ![Sinytra Connector](img/Sinytra-Connector.png) | Sinytra Connector | 2.0.0-beta.12+1.21.1 | - |
 | ![Sodium](img/Sodium.png) | Sodium | 0.6.13+mc1.21.1 | - |
 | ![Sodium Extra](img/Sodium-Extra.png) | Sodium Extra | 0.6.0+mc1.21.1 | - |
+| ![Sound Physics Remastered](img/Sound-Physics-Remastered.png) | Sound Physics Remastered | 1.21.1-1.4.10 | - |
 | ![Status Effect Bars](img/Status-Effect-Bars.png) | Status Effect Bars | 1.0.6 | - |
 | ![Supplementaries](img/Supplementaries.gif) | Supplementaries | 1.21-3.4.14 | No 1.21-3.4.15 |
+| ![Trajectory Estimation](img/Trajectory-Estimation.png) | Trajectory Estimation | 1.0.3.1 | client only |
 | ![WI Zoom](img/WI-Zoom.png) | WI Zoom | 1.6-MC1.21.1-NeoForge | client only |
+| ![Wooled Boots](img/Wooled-Boots.png) | Wooled Boots | 1.8 | - |
 | ![WorldEdit](img/WorldEdit.png) | WorldEdit | 7.3.8+6939-7d32b45 | single only |
 | ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | 2.6.2-neoforge+mc1.21.1 | - |
 
@@ -66,6 +74,7 @@ NeoForge 21.1.176
 | ![BetterF3](img/BetterF3.png) | BetterF3 | .toml | config/* |
 | ![Inventory Profiles Next](img/Inventory-Profiles-Next.png) | Inventory Profiles Next | .json | config/inventoryprofilesnext/* |
 | ![Shulker Tooltip](img/Shulker-Tooltip.png) | Shulker Tooltip | .json5 | config/* |
+| ![Trajectory Estimation](img/Trajectory-Estimation.png) | Trajectory Estimation | .toml | config/* |
 | ![Yes Steve Model](img/Yes-Steve-Model.png) | Yes Steve Model | .ysm, .zip | config/yes_steve_model/custom/* |
 
 ## options (Key Binds)
@@ -76,8 +85,9 @@ NeoForge 21.1.176
 ## resourcepacks
 | IMG | Name | Version | Other |
 ----|----|----|----
+| ![Flandre Scarlet's Wings](img/Flandre-Scarlet's-Wings.png) | Flandre Scarlet's Wings | 1.0 | https://www.curseforge.com/minecraft/texture-packs/flandre-scarlet-s-wings (original) |
+| ![gaming mithril ore](img/gaming-mithril-ore.png) | gaming mithril ore | 1.0 | original |
 | ![totem da capoeira](img/totem-da-capoeira.png) | totem da capoeira | 1.3 | - |
-| ![Flandre Scarlet's Wings](img/Flandre-Scarlet's-Wings.png) | Flandre Scarlet's Wings | 1.0 | https://www.curseforge.com/minecraft/texture-packs/flandre-scarlet-s-wings |
 
 ## scripts
 | IMG | Name | Version | Other |
